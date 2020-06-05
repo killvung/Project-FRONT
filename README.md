@@ -36,5 +36,6 @@ To build a SPA with semi-complicated UI, Nuxt and Vue would be great choices com
 #### Frontend will be complicated
 - The current implementation for the frontend will not handle big and complicated logics (Dashboard, SideBar, Widgest...).
 
+To build a scalable and functional system, one has to have thoughtful idea for every system components.
 ## V2
 (On going)
