@@ -14,18 +14,19 @@ FRONT is the abbreviation of
 I use multiple apps to track down my fitnesss activities, such as biking, running, walking, you name it! Often I found it difficult to switch between different application in order to analyze my data for purposes, for example, trackdown statistics like weekly total miles, has paces for running been improved, plot all routes on the map etc. Given my education background and working experience, it is possible for me to implement the system to centralize all the data and further experiment with them.
 
 ## V1
-Influenced by the hacker culture back in college, I wrote a POC instantly to display all my walking routes in Austin great area and display the top 5 longest walking routes. killvung.github.io/nuxt-front
-Components:
-Client
+Influenced by the hacker culture back in college, I wrote a [POC](http://killvung.github.io/nuxt-front) instantly to display all my walking routes in Austin great area and display the top 5 longest walking routes. 
+
+Components: 
+#### Client
 - Vue front with Nuxt (nuxt-front)
 - OpenLayer
-Services
+#### Services
 - Python Backend with Flask boilerplate (front-api) for all fitness data (routes, distances)
 - Apollo GraphQL Server (apollo-server) as a middleman to direct data
-Database:
+#### Database
 - Mongo Atlas to quickly stored raw data captured from datasource
 
-To build a SPA with semi-complicated UI, Nuxt and Vue would be a great chose compare to Rxxxx. OpenLayer is also used for displaying the map with all plotted routes. Realizing there would be a lot of complex data coming in from backend, I use Apollo GraphQL to dynamically fetch the data I needed, so I don't have to manually pick and choose through REST APIs. I used Python for my backend services so in the future I may be able to experiment the data with science ;-) 
+To build a SPA with semi-complicated UI, Nuxt and Vue would be great choices compare to Nxxx and Rxxxx. OpenLayer is also used for displaying the map with all plotted routes. Realizing there would be a lot of complex data coming in from backend, I use Apollo GraphQL to dynamically fetch the data I needed, so I don't have to manually pick and choose through REST APIs. I used Python for my backend services so in the future I may be able to experiment the data with science ;-) 
 
 ## Retrospect
 #### Too many hops
