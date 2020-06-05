@@ -22,7 +22,9 @@ Components:
 - OpenLayer
 #### Services
 - Python Backend with Flask boilerplate (front-api) for all fitness data (routes, distances)
+    - https://github.com/killvung/front-api
 - Apollo GraphQL Server (apollo-server) as a middleman to direct data
+    - https://github.com/killvung/express-apollo-server
 #### Database
 - Mongo Atlas to quickly stored raw data captured from datasource
 
