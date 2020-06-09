@@ -5,10 +5,10 @@ FRONT is the system I came up to capture all my fitness data across multiple sou
 
 FRONT is the abbreviation of 
 - Fitness
-- Recap
-- Offer
+- Replicate
+- Operation
 - Novel
-- Telling
+- Technology
 
 ## Motivation:
 I use multiple apps to track down my fitnesss activities, such as biking, running, walking, etc. Later on, due to the fact that all the information are spreaded across everywhere, I found it difficult to analyze my overall statistics for desired goals. For example, I want to trackdown how many miles I have walked weekly; Has my running paces been improved. I even want to plot all the routes on the map for visualization. Given my education background and professional working experience, I can definitely implement a system to centralize all the data from all datasources and utilized them for analytical purposes. 
