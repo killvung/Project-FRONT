@@ -5,8 +5,8 @@ FRONT is the system I came up to capture all my fitness data across multiple sou
 
 FRONT is the abbreviation of 
 - Fitness
-- Replicate
-- Operation
+- Routes
+- Object
 - Novel
 - Technology
 
