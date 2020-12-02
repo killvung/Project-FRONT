@@ -1,16 +1,15 @@
-# FRONT introduction
+# FNT introduction
 
-FRONT is a personal system created for capturing all of fitness data across multiple data sources.
+FNT is a personal system created for capturing all of fitness data across multiple data sources.
 ![front abstract](./static/front_abstract.png)
 
-FRONT is the abbreviation of
+FNT is the abbreviation of
 
 - Fitness (F)
-- Route (R)
-- Object (O)
 - Novel (N)
 - Technology (T)
-Meaning that it is a bleeding edge solution target for fitness activities and their routes (Run, Walk, Bike etc). The abbreviation may keeps changing as I ran out of idea to be edgy.
+
+Meaning that it is a bleeding edge solution for fitness related activities (Run, Walk, Bike etc).
 
 ## Motivation
 
